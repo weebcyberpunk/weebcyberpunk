@@ -3,16 +3,16 @@
 I'm Double G, but you can call me GG, also known as weebcyberpunk.
 
 I like low level programming in C and high level programming in Python. Also,
-currently I'm learning Rust.
+I'm currently learning Rust.
 
-My editor of choice is Vim/Neovim. You can check my configs
-[here](https://github.com/weebcyberpunk/nyanvim). Here are the plugins I wrote
+My editors of choice are Vim and Neovim. You can check my configs
+[here](https://github.com/weebcyberpunk/nyanvim). Here are some plugins I wrote
 for them:  
 - [run.vim](https://github.com/weebcyberpunk/run.vim)  
 - [lf.vim](https://github.com/weebcyberpunk/lf.vim)  
 
-I like to have beautiful and cute things, so my ricing my desktop is another
-hobby. You can check my configs and my wallpaper collection here:  
+I like to have beautiful and cute things, so ricing my desktop is another hobby.
+You can check my configs and my wallpaper collection here:  
 - [suckless builds](https://github.com/weebcyberpunk/suckless)  
 - [dots](https://github.com/weebcyberpunk/home)  
 - [wallpapers](https://github.com/weebcyberpunk/Wallpapers)  
